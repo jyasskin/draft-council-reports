@@ -13,5 +13,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: w3c/spec-prod@v2
         with:
+          TOOLCHAIN: bikeshed
           SOURCE: rdf-star-council-report.bs
           GH_PAGES_BRANCH: gh-pages
