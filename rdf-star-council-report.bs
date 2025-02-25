@@ -87,15 +87,28 @@ The Council resolved to accept the Team's recommendation to <strong>overrule</st
 
 <h2 id="rationale">Rationale</h2>
 
-<blockquote class="todo">
-<em>must</em> provide a rationale supporting the decision, which <em>should</em> address each argument raised in the Formal Objection(s).
-</blockquote>
+<h3 id="timeline">Not enough time</h3>
 
-<blockquote class="todo">
-The W3C Council may overrule the Formal Objection even if it agrees with <em>some</em> of the supportive arguments.
-</blockquote>
+The objector argues convincingly that the group cannot close all of its open issues before it is
+scheduled to publish new versions of its deliverables. However, as the Team report says, the scope
+allows the errata to be addressed after the new Recommendations are published ("The group will then
+maintain the set of resulting recommendations"). So this is not a reason to revert the wording
+change.
 
-	<p class=todo>[…]
+<h3 id="process-compliance">New substantive features must go through formal review</h3>
+
+The objector appears to argue that [section 6.3.11.4 of the W3C Process, about updating
+Recommendations in-place](https://www.w3.org/policies/process/#revised-rec-features) constrains
+charter development. This is incorrect.
+
+<h3 id="patchwork-modifications">Errata fixes should not introduce patchwork features</h3>
+
+The objector argues that "addressing" an erratum by adding a targeted feature could produce a worse
+final language than could be achieved by considering the whole space of feature requests and fixing
+them with coherent language changes. This is correct. However, the charter does not require the
+Working Group to make this mistake. Not all missing features are errata, and a serious erratum that
+highlights a desirable feature can usually be addressed while leaving the feature to a future, more
+coherent document revision.
 
 <h2 id="recommendations">Recommendations</h2>
 
