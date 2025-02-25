@@ -31,30 +31,52 @@ href="https://github.com/jyasskin/draft-council-reports/blob/main/rdf-star-counc
 <h2 id="intro">Introduction</h2>
 
 A detailed exposition of this case may be found in the
-[report](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html) prepared by the W3C Team
-and the [elaboration on the objection, by Datagraph
-GmbH](https://www.w3.org/2024/11/rdf-star-objection.pdf).
+[report](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html), prepared by the W3C Team,
+and the [elaboration on the objection, by the
+objector](https://www.w3.org/2024/11/rdf-star-objection.pdf).
 
-	<p class=todo>
-	<i>
-	Summarise the situation,
-	clearly identify the decision that is being formally objected to,
-	list the objections raised,
-	indicate if any were resolved by consensus
-	(and therefore don't need to be ruled on by the council),
-	to make clear exactly what the Council considers it is being asked to rule on.
-	If practical,
-	and summarize the (not yet resolved) objections
-	to make this report easier to read standalone.
-	However,
-	if the objections are long,
-	raise numerous points,
-	or are hard to summarize,
-	linking may be more prudent than rephrasing.
-	</i>
+The [initially-proposed RDF-star charter](https://www.w3.org/2024/08/proposed-rdf-star-wg-charter.html) included
+
+> For every recommendation updated by this Working Group, the pending editorial errata will also be
+> addressed.
+>
+> ...
+>
+> Other normative deliverables, or non-editorial errata to the deliverable above, might be
+> considered by the Working Group during its lifetime.
+
+2 comments in the [AC poll](https://www.w3.org/2002/09/wbs/33280/rdf-star-wg-2024/results) suggested
+"extending the scope to all kinds of errata, including the substantive ones", without formally
+objecting.
+
+The charter was [revised](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html) to
+incorporate that change, updating the wording to:
+
+> For every recommendation updated by this Working Group, the pending errata will also be addressed.
+>
+> ...
+>
+> Other normative deliverables might be considered by the Working Group during its lifetime.
+
+A W3C member
+[objected](https://lists.w3.org/Archives/Public/public-review-comments/2024Nov/0003.html) to that
+change on the grounds that:
+
+1. The group does not have time to complete its primary objectives and also to address non-editorial
+	errata.
+2. The change opens the door to additional features, which won't comply with the W3C Process's
+	requirements for revising a Recommendation.
+3. The new charter encourages piecemeal instead of coherent feature additions.
+
+The Team did not propose to return to the originally-proposed charter because the intent had never
+been to exclude non-editorial errata from the scope. Further, as [Florian Rivoal
+argued](https://lists.w3.org/Archives/Member/w3c-ac-forum/2024OctDec/0075.html), Working Groups are
+expected to address at least some of the long standing errata on each republication and may not
+simply ignore the non-editorial ones.
 
 A Council was formed to rule on this objection.
-This <a href="https://www.w3.org/policies/process/#council-report">Council Report</a> documents the conclusions of this Council.
+This <a href="https://www.w3.org/policies/process/#council-report">Council Report</a> documents the
+conclusions of this Council.
 
 
 <h2 id="decision">Decision</h2>
