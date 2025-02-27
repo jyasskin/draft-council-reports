@@ -68,6 +68,15 @@ change on the grounds that:
 	requirements for revising a Recommendation.
 3. The new charter encourages piecemeal instead of coherent feature additions.
 
+There is also a discussion on SPARQL EXISTS
+([issue](https://github.com/w3c/sparql-query/issues/156);
+[email](https://lists.w3.org/Archives/Public/public-rdf-star-wg/2024Oct/0003.html);
+[discussion](https://www.w3.org/2024/10/03-rdf-star-minutes.html#67a2)) that seems to be underlying
+this objection to the charter. However, when the Team Contact suggested formally objecting to just
+that [Group Decision](https://www.w3.org/policies/process/#decisions), the objector did not think
+that limited objection would be enough to get the group to finish its deliverables on the charter's
+schedule.
+
 The Team did not propose to return to the originally-proposed charter because the intent had never
 been to exclude non-editorial errata from the scope. Further, as [Florian Rivoal
 argued](https://lists.w3.org/Archives/Member/w3c-ac-forum/2024OctDec/0075.html), Working Groups are
