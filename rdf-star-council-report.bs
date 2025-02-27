@@ -153,6 +153,18 @@ We caution the working group that it can be better to recharter to add a coheren
 features, than to add the narrowest possible fix for an erratum, if that narrow fix would preclude a
 more coherent standard in the long term.
 
+<h2 id="miscellanea">Miscellanea</h2>
+
+* The Team Report
+	[recommends](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html#recommendation)
+	that the working group be renamed to "RDF and SPARQL Working Group" in this charter. We think
+	this is sensible, but we are not making a formal recommendation on that subject because renaming
+	the WG would be a separate Team action and not part of resolving this formal objection.
+* The [RDF 1.2 XML
+	Syntax](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html#rdf-syntax-grammar)
+	deliverable still mentions just "editorial errata". It would be best to align that with the rest
+	of the charter, but this is again not part of resolving this formal objection.
+
 <h2 id="participation" class=no-num>Appendix A: Council Participation</h2>
 
 
