@@ -194,16 +194,19 @@ Therefore, the actual membership of this council was:
 
 </ul>
 
-	Jeffrey Yasskin was appointed as chair.
+Jeffrey Yasskin was appointed as chair.
 
-	<p>
-	Of those qualified to serve, the following participated in the final decision:
+Of those qualified to serve, the following participated in the final decision:
 
-	<ul class="pack">
-		<li><span class=todo>[…]</span>
-		<li><span class=todo>[…]</span>
-		<li><span class=todo>[…]</span>
-	</ul>
+<ul class="pack">
+
+* Daniel Appelquist
+* Tim Berners-Lee
+* Seth Dobbs
+* Martin Thomson
+* Jeffrey Yasskin
+
+</ul>
 
 	<p class=todo>
 	<i>Pick among the following two paragraphs, as appropriate, and delete the other one.</i>
