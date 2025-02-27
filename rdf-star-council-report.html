@@ -6,7 +6,7 @@
   <link href="https://www.w3.org/StyleSheets/TR/2021/base.css" rel="stylesheet">
   <meta content="Bikeshed version 60c422380, updated Thu Feb 20 19:11:22 2025 -0800" name="generator">
   <link href="https://www.w3.org/2008/site/images/favicon.ico" rel="icon">
-  <meta content="02cbbe59484e761d98516e3b0f5bc22faf1b9122" name="revision">
+  <meta content="3092e0cb2cc255aed30cc0d38e54c4b8f756af1e" name="revision">
   <meta content="dark light" name="color-scheme">
   <link href="https://www.w3.org/StyleSheets/TR/2021/dark.css" media="(prefers-color-scheme: dark)" rel="stylesheet" type="text/css">
 <style>
@@ -421,7 +421,7 @@ dfn > a.self-link::before      { content: "#"; }
   <div class="head">
    <p data-fill-with="logo"><a class="logo" href="https://www.w3.org/"> <img alt="W3C" height="48" src="https://www.w3.org/StyleSheets/TR/2021/logos/W3C" width="72"> </a> </p>
    <h1 class="p-name no-ref" id="title">W3C Council Report on the Formal Objection Against the RDF-star Working Group Charter</h1>
-   <p id="w3c-state"><a href="https://www.w3.org/policies/process/#council-report">Council Report</a>, <time class="dt-updated" datetime="2025-02-25">25 February 2025</time></p>
+   <p id="w3c-state"><a href="https://www.w3.org/policies/process/#council-report">Council Report</a>, <time class="dt-updated" datetime="2025-02-27">27 February 2025</time></p>
    <div data-fill-with="warning"></div>
    <p class="copyright" data-fill-with="copyright"><a href="https://www.w3.org/Consortium/Legal/ipr-notice#Copyright">Copyright</a> © 2025 <a href="https://www.w3.org/">World Wide Web Consortium</a>. <abbr title="World Wide Web Consortium">W3C</abbr><sup>®</sup> <a href="https://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">liability</a>, <a href="https://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">trademark</a> and <a href="https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document" rel="license">permissive document license</a> rules apply. </p>
    <hr title="Separator for header">
@@ -439,7 +439,6 @@ dfn > a.self-link::before      { content: "#"; }
       <li><a href="#patchwork-modifications"><span class="secno">3.3</span> <span class="content">Errata fixes should not introduce patchwork features</span></a>
      </ol>
     <li><a href="#recommendations"><span class="secno">4</span> <span class="content">Recommendations</span></a>
-    <li><a href="#mitigations"><span class="secno">5</span> <span class="content">Mitigations</span></a>
     <li><a href="#participation"><span class="secno"></span> <span class="content">Appendix A: Council Participation</span></a>
     <li><a href="#minority"><span class="secno"></span> <span class="content"> Appendix B:
 Minority Report</span></a>
@@ -481,6 +480,12 @@ requirements for revising a Recommendation.</p>
     <li data-md>
      <p>The new charter encourages piecemeal instead of coherent feature additions.</p>
    </ol>
+   <p>There is also a discussion on SPARQL EXISTS
+(<a href="https://github.com/w3c/sparql-query/issues/156">issue</a>; <a href="https://lists.w3.org/Archives/Public/public-rdf-star-wg/2024Oct/0003.html">email</a>; <a href="https://www.w3.org/2024/10/03-rdf-star-minutes.html#67a2">discussion</a>) that seems to be underlying
+this objection to the charter. However, when the Team Contact suggested formally objecting to just
+that <a href="https://www.w3.org/policies/process/#decisions">Group Decision</a>, the objector did not think
+that limited objection would be enough to get the group to finish its deliverables on the charter’s
+schedule.</p>
    <p>The Team did not propose to return to the originally-proposed charter because the intent had never
 been to exclude non-editorial errata from the scope. Further, as <a href="https://lists.w3.org/Archives/Member/w3c-ac-forum/2024OctDec/0075.html">Florian Rivoal
 argued</a>, Working Groups are
@@ -493,43 +498,50 @@ conclusions of this Council.</p>
    <p>The Council resolved to accept the Team’s recommendation to <strong>overrule</strong> the objection.</p>
    <p><strong>The charter may proceed.</strong></p>
    <h2 class="heading settled" data-level="3" id="rationale"><span class="secno">3. </span><span class="content">Rationale</span><a class="self-link" href="#rationale"></a></h2>
+   <p>We are overruling the objection because there seems to be broad support within the Working Group for
+addressing their substantive errata, and because it’s important for working groups to address
+substantive errata while maintaining their specifications.</p>
+   <p>The <a href="https://www.w3.org/2024/11/rdf-star-objection.pdf">detailed objection</a> makes three arguments
+that we’ll address individually:</p>
    <h3 class="heading settled" data-level="3.1" id="timeline"><span class="secno">3.1. </span><span class="content">Not enough time</span><a class="self-link" href="#timeline"></a></h3>
    <p>The objector argues convincingly that the group cannot close all of its open issues before it is
 scheduled to publish new versions of its deliverables. However, as the Team report says, the scope
 allows the errata to be addressed after the new Recommendations are published ("The group will then
-maintain the set of resulting recommendations"). So this is not a reason to revert the wording
-change.</p>
+maintain the set of resulting recommendations"). Even when the the group addresses the errata, it is
+not required to completely solve them: sometimes documenting conflicts can be a good way to address
+an erratum in the short term. So this is not a reason to revert the wording change.</p>
    <h3 class="heading settled" data-level="3.2" id="process-compliance"><span class="secno">3.2. </span><span class="content">New substantive features must go through formal review</span><a class="self-link" href="#process-compliance"></a></h3>
    <p>The objector appears to argue that <a href="https://www.w3.org/policies/process/#revised-rec-features">section 6.3.11.4 of the W3C Process, about updating
 Recommendations in-place</a> constrains
-charter development. This is incorrect.</p>
+charter development or the development of new versions of a standard that go through the full <a href="https://www.w3.org/policies/process/#rec-track">Recommendation track</a>. This is not a correct
+reading of this part of the Process.</p>
    <h3 class="heading settled" data-level="3.3" id="patchwork-modifications"><span class="secno">3.3. </span><span class="content">Errata fixes should not introduce patchwork features</span><a class="self-link" href="#patchwork-modifications"></a></h3>
    <p>The objector argues that "addressing" an erratum by adding a targeted feature could produce a worse
 final language than could be achieved by considering the whole space of feature requests and fixing
 them with coherent language changes. This is correct. However, the charter does not require the
 Working Group to make this mistake. Not all missing features are errata, and a serious erratum that
-highlights a desirable feature can usually be addressed while leaving the feature to a future, more
-coherent document revision.</p>
+highlights a desirable feature can be addressed by documenting a plan to recharter and add the
+feature in a coherent document revision.</p>
    <h2 class="heading settled" data-level="4" id="recommendations"><span class="secno">4. </span><span class="content">Recommendations</span><a class="self-link" href="#recommendations"></a></h2>
-   <blockquote class="todo"> <em>must</em> include any recommendation decided by the Council. </blockquote>
-   <blockquote class="todo"> When upholding an objection, it <em>should</em> recommend a way forward. </blockquote>
-   <p class="todo"> <i>If the Council has some suggestions to give,
-write them here.
-This could be, in the case of objections overruled despite some concerns,
-advice on what to do in order to avoid further potentially sustainable objections
-at a later stage;
-alternatively, in the case of sustained objections,
-suggestions of what the originating group can do to try and overcome the disagreements.
-None of this, however, is binding. </i> </p>
-   <p class="todo">[…] </p>
-   <h2 class="heading settled" data-level="5" id="mitigations"><span class="secno">5. </span><span class="content">Mitigations</span><a class="self-link" href="#mitigations"></a></h2>
-   <blockquote class="todo">
-     If an overturned decision has already had consequences (e.g., if the objection concerns material already in a published document) the Council should suggest how these consequences might be mitigated. The Team is responsible for making sure that adequate mitigations are enacted in a timely fashion; and the Formal Objection is not considered fully addressed until then. 
-    <p class="note" role="note"> Note: This does not create new powers for the Team, such as the ability to “unpublish” documents. The Team’s role is to ensure the responsible parties enact adequate mitigations, by whatever means they already have at their disposal. </p>
+   <p>We would like to remind the AC that it’s possible to <a href="https://www.w3.org/policies/process/#registering-objections">formally
+object</a> to any <a href="https://www.w3.org/policies/process/#decisions">decision</a>, not just to formal polls via the <a href="https://www.w3.org/2002/09/wbs/">WBS
+system</a>. While formal objections are always disruptive, a <a href="https://www.w3.org/policies/process/#council">W3C
+Council</a> can make better decisions if it’s presented
+the core of the disagreement instead of a proxy.</p>
+   <p>We encourage the working group to expeditiously finish this revision of the RDF specifications and
+advance them to Recommendation, before fixing all of the open errata and especially before working
+though controversy around new features meant to fix errata. As <a href="https://www.w3.org/policies/process/#maturity-stages">the Process
+says</a>,</p>
+   <blockquote>
+    <p>in the interest of replacing stale documents with improved ones in a timely manner, if flaws have
+been discovered in the technical report after its initial publication as a CR or REC that would
+have been severe enough to reject that publication had they be known in time, it is also
+permissible to publish an updated CR or REC following the usual process, even if only some of
+these flaws have been satisfactorily addressed.</p>
    </blockquote>
-   <p class="todo">[…] </p>
-   <p class="todo"> <i> If the objections were overruled,
-	delete this section. </i> </p>
+   <p>We caution the working group that it can be better to recharter to add a coherent set of new
+features, than to add the narrowest possible fix for an erratum, if that narrow fix would preclude a
+more coherent standard in the long term.</p>
    <h2 class="no-num heading settled" id="participation"><span class="content">Appendix A: Council Participation</span><a class="self-link" href="#participation"></a></h2>
    <p><i class="todo"> Information on participation, as <a href="https://www.w3.org/policies/process/#council-decision">required</a> by Process on Councils;
 	this section needs to be filled out. </i></p>
