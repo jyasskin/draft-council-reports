@@ -96,19 +96,29 @@ The Council resolved to accept the Team's recommendation to <strong>overrule</st
 
 <h2 id="rationale">Rationale</h2>
 
+We are overruling the objection because there seems to be broad support within the Working Group for
+addressing their substantive errata, and because it's important for working groups to address
+substantive errata while maintaining their specifications.
+
+The [detailed objection](https://www.w3.org/2024/11/rdf-star-objection.pdf) makes three arguments
+that we'll address individually:
+
 <h3 id="timeline">Not enough time</h3>
 
 The objector argues convincingly that the group cannot close all of its open issues before it is
 scheduled to publish new versions of its deliverables. However, as the Team report says, the scope
 allows the errata to be addressed after the new Recommendations are published ("The group will then
-maintain the set of resulting recommendations"). So this is not a reason to revert the wording
-change.
+maintain the set of resulting recommendations"). Even when the the group addresses the errata, it is
+not required to completely solve them: sometimes documenting conflicts can be a good way to address
+an erratum in the short term. So this is not a reason to revert the wording change.
 
 <h3 id="process-compliance">New substantive features must go through formal review</h3>
 
 The objector appears to argue that [section 6.3.11.4 of the W3C Process, about updating
 Recommendations in-place](https://www.w3.org/policies/process/#revised-rec-features) constrains
-charter development. This is incorrect.
+charter development or the development of new versions of a standard that go through the full
+[Recommendation track](https://www.w3.org/policies/process/#rec-track). This is not a correct
+reading of this part of the Process.
 
 <h3 id="patchwork-modifications">Errata fixes should not introduce patchwork features</h3>
 
@@ -116,31 +126,32 @@ The objector argues that "addressing" an erratum by adding a targeted feature co
 final language than could be achieved by considering the whole space of feature requests and fixing
 them with coherent language changes. This is correct. However, the charter does not require the
 Working Group to make this mistake. Not all missing features are errata, and a serious erratum that
-highlights a desirable feature can usually be addressed while leaving the feature to a future, more
-coherent document revision.
+highlights a desirable feature can be addressed by documenting a plan to recharter and add the
+feature in a coherent document revision.
 
 <h2 id="recommendations">Recommendations</h2>
 
-<blockquote class="todo">
-<em>must</em> include any recommendation decided by the Council.
-</blockquote>
+We would like to remind the AC that it's possible to [formally
+object](https://www.w3.org/policies/process/#registering-objections) to any
+[decision](https://www.w3.org/policies/process/#decisions), not just to formal polls via the [WBS
+system](https://www.w3.org/2002/09/wbs/). While formal objections are always disruptive, a [W3C
+Council](https://www.w3.org/policies/process/#council) can make better decisions if it's presented
+the core of the disagreement instead of a proxy.
 
-<blockquote class="todo">
-When upholding an objection, it <em>should</em> recommend a way forward.
-</blockquote>
+We encourage the working group to expeditiously finish this revision of the RDF specifications and
+advance them to Recommendation, before fixing all of the open errata and especially before working
+though controversy around new features meant to fix errata. As [the Process
+says](https://www.w3.org/policies/process/#maturity-stages),
 
-<p class=todo>
-<i>If the Council has some suggestions to give,
-write them here.
-This could be, in the case of objections overruled despite some concerns,
-advice on what to do in order to avoid further potentially sustainable objections
-at a later stage;
-alternatively, in the case of sustained objections,
-suggestions of what the originating group can do to try and overcome the disagreements.
-None of this, however, is binding.
-</i>
+> in the interest of replacing stale documents with improved ones in a timely manner, if flaws have
+> been discovered in the technical report after its initial publication as a CR or REC that would
+> have been severe enough to reject that publication had they be known in time, it is also
+> permissible to publish an updated CR or REC following the usual process, even if only some of
+> these flaws have been satisfactorily addressed.
 
-<p class=todo>[…]
+We caution the working group that it can be better to recharter to add a coherent set of new
+features, than to add the narrowest possible fix for an erratum, if that narrow fix would preclude a
+more coherent standard in the long term.
 
 <h2 id="mitigations">Mitigations</h2>
 
