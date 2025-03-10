@@ -124,10 +124,15 @@ reading of this part of the Process.
 
 The objector argues that "addressing" an erratum by adding a targeted feature could produce a worse
 final language than could be achieved by considering the whole space of feature requests and fixing
-them with coherent language changes. This is correct. However, the charter does not require the
-Working Group to make this mistake. Not all missing features are errata, and a serious erratum that
-highlights a desirable feature can be addressed by documenting a plan to recharter and add the
-feature in a coherent document revision.
+them with coherent language changes. This is correct. However, the W3C Process defines an
+[erratum](https://www.w3.org/policies/process/#errata) as
+
+> any error that can be resolved by one or more changes in [classes 1-3 of section §6.2.3 Classes of
+> Changes](https://www.w3.org/policies/process/#correction-classes).
+
+That is, the revised charter does not allow the Working Group to add features in order to fix
+errors. Errors that can only be fixed by the addition of new features will require the group to
+recharter, at which point a coherent set of features can be added.
 
 <h2 id="recommendations">Recommendations</h2>
 
