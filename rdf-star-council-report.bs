@@ -134,24 +134,9 @@ feature in a coherent document revision.
 We would like to remind the AC that it's possible to [formally
 object](https://www.w3.org/policies/process/#registering-objections) to any
 [decision](https://www.w3.org/policies/process/#decisions), not just to formal polls via the [WBS
-system](https://www.w3.org/2002/09/wbs/). While formal objections are always disruptive, a [W3C
-Council](https://www.w3.org/policies/process/#council) can make better decisions if it's presented
-the core of the disagreement instead of a proxy.
-
-We encourage the working group to expeditiously finish this revision of the RDF specifications and
-advance them to Recommendation, before fixing all of the open errata and especially before working
-though controversy around new features meant to fix errata. As [the Process
-says](https://www.w3.org/policies/process/#maturity-stages),
-
-> in the interest of replacing stale documents with improved ones in a timely manner, if flaws have
-> been discovered in the technical report after its initial publication as a CR or REC that would
-> have been severe enough to reject that publication had they be known in time, it is also
-> permissible to publish an updated CR or REC following the usual process, even if only some of
-> these flaws have been satisfactorily addressed.
-
-We caution the working group that it can be better to recharter to add a coherent set of new
-features, than to add the narrowest possible fix for an erratum, if that narrow fix would preclude a
-more coherent standard in the long term.
+system](https://www.w3.org/2002/09/wbs/). The [W3C
+Council](https://www.w3.org/policies/process/#council) process is able to make better decisions if
+formal objections are about more specific decisions.
 
 <h2 id="miscellanea">Miscellanea</h2>
 
