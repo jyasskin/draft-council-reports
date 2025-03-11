@@ -113,11 +113,29 @@ change.
 
 <h3 id="process-compliance">New substantive features must go through formal review</h3>
 
-The objector appears to argue that [section 6.3.11.4 of the W3C Process, about updating
-Recommendations in-place](https://www.w3.org/policies/process/#revised-rec-features) constrains
-charter development or the development of new versions of a standard that go through the full
-[Recommendation track](https://www.w3.org/policies/process/#rec-track). This is not a correct
-reading of this part of the Process.
+The objector argues that [section 6.3.11.4 of the W3C Process, about adding new features to
+Recommendations in-place](https://www.w3.org/policies/process/#revised-rec-features), constrains the
+changes that the WG wants to make to their documents.
+
+First, as discussed in [the next section](#patchwork-modifications), the charter does not allow the
+Working Group to add features outside of RDF-star itself, so this section doesn't apply to the
+errata fixes that are at the core of this formal objection.
+
+Second, this section of the Process says
+
+> To make changes which introduce a new feature to a Recommendation that does not [allow new
+> features](https://www.w3.org/policies/process/#allow-new-features), W3C must create a new
+> [technical report](https://www.w3.org/policies/process/#technical-report) ...
+
+The documents that the Working Group is changing are new technical reports. For example, the WG is
+not updating [rdf11-concepts](https://www.w3.org/TR/rdf11-concepts/) in-place. It has instead
+started work on [rdf12-concepts](https://www.w3.org/TR/rdf12-concepts/), in accordance with this
+section of the Process.
+
+Third, focusing on the principle at play rather than the specific cited section of the Process, all
+of this WG's changes will be formally reviewed as the new technical reports advance through the
+[Recommendation track](https://www.w3.org/policies/process/#rec-track), without needing any changes
+to the charter.
 
 <h3 id="patchwork-modifications">Errata fixes should not introduce patchwork features</h3>
 
