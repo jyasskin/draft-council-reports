@@ -108,8 +108,13 @@ that we'll address individually:
 The objector argues convincingly that the group cannot close all of its open issues before it is
 scheduled to publish new versions of its deliverables. However, as the Team report says, the scope
 allows the errata to be addressed after the new Recommendations are published ("The group will then
-maintain the set of resulting recommendations"). So this is not a reason to revert the wording
-change.
+maintain the set of resulting recommendations").
+
+The charter does restrict the group to avoid scheduling errata fixes in ways that would delay the
+deliverables past their due dates. However, even if the deliverables miss their due dates, as often
+happens, there may be some errata fixes that can be applied without further delaying the
+deliverables. We don't need to change the charter to delay all errata fixes in order to get the
+deliverables as soon as possible.
 
 <h3 id="process-compliance">New substantive features must go through formal review</h3>
 
