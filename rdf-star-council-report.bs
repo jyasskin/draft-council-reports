@@ -143,6 +143,11 @@ system](https://www.w3.org/2002/09/wbs/). The [W3C
 Council](https://www.w3.org/policies/process/#council) process is able to make better decisions if
 formal objections are about more specific decisions.
 
+Not everyone in the W3C community is aware that the Process gives a precise definition for "errata",
+so we recommend that the charter be editorially changed to link the use in the [scope
+section](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html#scope) to its [definition in
+the Process](https://www.w3.org/policies/process/#errata).
+
 We also encourage the objector and the WG chairs to work together to find a mutually agreeable
 schedule to accomplish the group's chartered work.
 
