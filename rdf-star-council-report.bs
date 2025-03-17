@@ -233,9 +233,11 @@ Of those qualified to serve, the following participated in the final decision:
 <ul class="pack">
 
 * Daniel Appelquist
+* Matthew Atkinson
 * Tim Berners-Lee
 * Tantek Çelik
 * Seth Dobbs
+* Elika Etemad
 * Martin Thomson
 * Jeffrey Yasskin
 
