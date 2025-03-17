@@ -187,12 +187,6 @@ schedule to accomplish the group's chartered work.
 
 <h2 id="participation" class=no-num>Appendix A: Council Participation</h2>
 
-
-<i class=todo>
-	Information on participation, as <a href="https://www.w3.org/policies/process/#council-decision">required</a> by Process on Councils;
-	this section needs to be filled out.
-</i>
-
 [The Council was formed on February 19,
 2025](https://lists.w3.org/Archives/Member/w3c-ac-members/2025JanMar/0040.html) from the members of
 the TAG and the AB who had also been members on December 11, 2024 to be included in the [call for
@@ -243,28 +237,4 @@ Of those qualified to serve, the following participated in the final decision:
 
 </ul>
 
-	<p class=todo>
-	<i>Pick among the following two paragraphs, as appropriate, and delete the other one.</i>
-
-	<p>
-	The decision was made by consensus.
-
-	<p>
-	The decision was made by vote, with <span class=todo>[x]</span> in favor, <span class=todo>[y]</span> against, and <span class=todo>[z]</span> abstaining<span class=todo>[, with the chair breaking the tie]</span>.
-
-<h2 id="minority" class="no-num todo">
-Appendix B:
-Minority Report</h2>
-
-	<blockquote class=todo>
-		In the case of non-unanimous decisions, members of a W3C Council who disagree with the decision may write a Minority Opinion explaining the reason for their disagreement.
-	</blockquote>
-
-	<p class=todo>&#91;…]
-
-	<p class=todo>
-	<i>
-	If the decision was taken by consensus,
-	or those who lost the vote do not wish to explain their views,
-	delete this section.
-	</i>
+The decision was made by consensus.
