@@ -31,7 +31,7 @@ href="https://github.com/jyasskin/draft-council-reports/blob/main/rdf-star-counc
 <h2 id="intro">Introduction</h2>
 
 A detailed exposition of this case may be found in the
-[report](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html), prepared by the W3C Team,
+[report prepared by the W3C Team](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html),
 and the [elaboration on the objection, by the
 objector](https://www.w3.org/2024/11/rdf-star-objection.pdf).
 
