@@ -40,8 +40,8 @@ The [initially-proposed RDF-star charter](https://www.w3.org/2024/08/proposed-rd
 > considered by the Working Group during its lifetime.
 
 2 comments in the [AC poll](https://www.w3.org/2002/09/wbs/33280/rdf-star-wg-2024/results) suggested
-"extending the scope to all kinds of errata, including the substantive ones", without formally
-objecting.
+&ldquo;extending the scope to all kinds of errata, including the substantive ones&rdquo;, without
+formally objecting.
 
 The charter was [revised](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html) to
 incorporate that change, updating the wording to:
@@ -100,8 +100,8 @@ that we'll address individually:
 
 The objector argues convincingly that the group cannot close all of its open issues before it is
 scheduled to publish new versions of its deliverables. However, as the Team report says, the scope
-allows the errata to be addressed after the new Recommendations are published ("The group will then
-maintain the set of resulting recommendations").
+allows the errata to be addressed after the new Recommendations are published (&ldquo;The group will
+then maintain the set of resulting recommendations&rdquo;).
 
 The charter does restrict the group to avoid scheduling errata fixes in ways that would delay the
 deliverables past their due dates. However, even if the deliverables miss their due dates, as often
@@ -137,10 +137,10 @@ to the charter.
 
 <h3 id="patchwork-modifications">Errata fixes should not introduce patchwork features</h3>
 
-The objector argues that "addressing" an erratum by adding a targeted feature could produce a worse
-final language than could be achieved by considering the whole space of feature requests and fixing
-them with coherent language changes. This is correct. However, the W3C Process defines an
-[erratum](https://www.w3.org/policies/process/#errata) as
+The objector argues that &ldquo;addressing&rdquo; an erratum by adding a targeted feature could
+produce a worse final language than could be achieved by considering the whole space of feature
+requests and fixing them with coherent language changes. This is correct. However, the W3C Process
+defines an [erratum](https://www.w3.org/policies/process/#errata) as
 
 > any error that can be resolved by one or more changes in [classes 1-3 of section §6.2.3 Classes of
 > Changes](https://www.w3.org/policies/process/#correction-classes).
@@ -158,10 +158,10 @@ system](https://www.w3.org/2002/09/wbs/). The [W3C
 Council](https://www.w3.org/policies/process/#council) process is able to make better decisions if
 formal objections are about more specific decisions.
 
-Not everyone in the W3C community is aware that the Process gives a precise definition for "errata",
-so we recommend that the charter be editorially changed to link the use in the [scope
-section](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html#scope) to its [definition in
-the Process](https://www.w3.org/policies/process/#errata).
+Not everyone in the W3C community is aware that the Process gives a precise definition for
+&ldquo;errata&rdquo;, so we recommend that the charter be editorially changed to link the use in the
+[scope section](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html#scope) to its
+[definition in the Process](https://www.w3.org/policies/process/#errata).
 
 We also encourage the objector and the WG chairs to work together to find a mutually agreeable
 schedule to accomplish the group's chartered work.
@@ -170,13 +170,13 @@ schedule to accomplish the group's chartered work.
 
 * The Team Report
 	[recommends](https://www.w3.org/2024/11/team-report-rdf-star-wg-charter.html#recommendation)
-	that the working group be renamed to "RDF and SPARQL Working Group" in this charter. We think
-	this is sensible, but we are not making a formal recommendation on that subject because renaming
-	the WG would be a separate Team action and not part of resolving this formal objection.
+	that the working group be renamed to &ldquo;RDF and SPARQL Working Group&rdquo; in this charter.
+	We think this is sensible, but we are not making a formal recommendation on that subject because
+	renaming the WG would be a separate Team action and not part of resolving this formal objection.
 * The [RDF 1.2 XML
 	Syntax](https://www.w3.org/2024/10/proposed-rdf-star-wg-charter.html#rdf-syntax-grammar)
-	deliverable still mentions just "editorial errata". It would be best to align that with the rest
-	of the charter, but this is again not part of resolving this formal objection.
+	deliverable still mentions just &ldquo;editorial errata&rdquo;. It would be best to align that
+	with the rest of the charter, but this is again not part of resolving this formal objection.
 
 <h2 id="participation" class=no-num>Appendix A: Council Participation</h2>
 
