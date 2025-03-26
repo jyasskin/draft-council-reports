@@ -24,10 +24,6 @@ q { font-style: italic; }
 }
 </style>
 
-<p class=todo><i>The source of this document is available in <a
-href="https://speced.github.io/bikeshed/">Bikeshed</a> format at <a
-href="https://github.com/jyasskin/draft-council-reports/blob/main/rdf-star-council-report.bs">https://github.com/jyasskin/draft-council-reports/blob/main/rdf-star-council-report.bs</a>.</i>
-
 <h2 id="intro">Introduction</h2>
 
 A detailed exposition of this case may be found in the
