@@ -232,7 +232,12 @@ Of those qualified to serve, the following participated in the final decision:
 * Tantek Çelik
 * Seth Dobbs
 * Elika Etemad
+* Max Gendler
+* Tatsuya Igarashi
+* Wendy Reid
+* Avneesh Singh
 * Martin Thomson
+* Chris Wilson
 * Jeffrey Yasskin
 
 </ul>
