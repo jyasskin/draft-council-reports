@@ -117,7 +117,9 @@ changes that the WG wants to make to their documents.
 
 First, as discussed in [the next section](#patchwork-modifications), the charter does not allow the
 Working Group to add features outside of RDF-star itself. This formal objection does not target
-RDF-star, so section 6.3.11.4 of the W3C Process doesn't apply to this formal objection.
+RDF-star, so [section 6.3.11.4 of the W3C
+Process](https://www.w3.org/policies/process/#revised-rec-features) doesn't apply to this formal
+objection.
 
 Second, this section of the Process says
 
