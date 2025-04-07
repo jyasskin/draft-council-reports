@@ -200,9 +200,9 @@ the initial content of a new technical report, and that all active and draft cha
 	deliverable still mentions just &ldquo;editorial errata&rdquo;. It would be best to align that
 	with the rest of the charter, but this is again not part of resolving this formal objection.
 * The updated charter includes a statement that “the pending errata will also be addressed”. This
-	implies that _all_ pending errata will be addressed, and in conversation with some members of
+	implies that *all* pending errata will be addressed, and in conversation with some members of
 	the Working Group, the Council confirmed that their intent was only to commit to addressing
-	_some_ of the pending errata. Removing “the” would improve the alignment between the charter and
+	*some* of the pending errata. Removing “the” would improve the alignment between the charter and
 	the WG's intent, though the objector has indicated that this would not resolve their objection.
 
 <h2 id="participation" class=no-num>Appendix A: Council Participation</h2>
