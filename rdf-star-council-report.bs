@@ -254,6 +254,7 @@ Of those qualified to serve, the following participated in the final decision:
 * Elika Etemad
 * Max Gendler
 * Tatsuya Igarashi
+* Elena Lape
 * Wendy Reid
 * Avneesh Singh
 * Martin Thomson
