@@ -250,6 +250,7 @@ Of those qualified to serve, the following participated in the final decision:
 * Matthew Atkinson
 * Tim Berners-Lee
 * Tantek Çelik
+* Wei Ding
 * Seth Dobbs
 * Elika Etemad
 * Max Gendler
